@@ -9,7 +9,6 @@ O **BuscadorPDF Inteligente** é uma ferramenta em Python projetada para facilit
 A **inspiração direta para este projeto veio da dificuldade enfrentada pela minha namorada em sua pesquisa de Iniciação Científica em História**. Ela passava muito tempo buscando manualmente por informações específicas em uma vasta coleção de PDFs, perdendo tempo que poderia ser dedicado à análise e escrita. Este projeto foi criado com o objetivo de **resolver esse problema**, automatizando e aprimorando a busca em documentos para que ela (e outros pesquisadores) possam encontrar a informação certa de forma mais rápida e eficiente.
 
 ## ✨ Funcionalidades
-# ... (o resto do README continua igual)
 
 * **Busca em Diretórios:** Analisa todos os arquivos PDF dentro de uma pasta especificada.
 * **Busca Flexível:** Encontra PDFs pela palavra-chave no **nome do arquivo** ou no **conteúdo** interno.
