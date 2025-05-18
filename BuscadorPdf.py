@@ -8,7 +8,7 @@ from PIL import Image
 # --- Configuração do Gemini ---
 # IMPORTANTE: Substitua 'SUA_CHAVE_DE_API' pela sua chave real do Gemini
 # Obtenha uma chave em https://www.google.com/url?sa=E&source=gmail&q=https://makersuite.google.com/keys
-API_KEY = 'AIzaSyBAJFq6EVElUhP6xd1UY40-qNICCILI7lw' # <-- COLOQUE SUA CHAVE AQUI
+API_KEY = 'SUA_CHAVE_DE_API' # <-- COLOQUE SUA CHAVE AQUI
 
 gemini_model = None
 try:
